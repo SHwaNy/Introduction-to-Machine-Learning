@@ -13,6 +13,7 @@
 | [`ml_practice_정답.ipynb`](ml_practice_정답.ipynb) | **정답 노트북** (실행 결과 포함). 막혔을 때 확인하세요. |
 | [`health.csv`](health.csv) | 실습 데이터 |
 | [`requirements.txt`](requirements.txt) | 필요한 라이브러리 목록 |
+| [`머신러닝맛보기_실습편.pptx`](머신러닝맛보기_실습편.pptx) | 수업 슬라이드. 노트북의 슬라이드 번호(#)가 이 자료의 쪽 번호입니다. |
 
 > 노트북은 같은 폴더의 `health.csv`를 읽습니다. **세 파일을 같은 폴더에** 두고 실행하세요.
 
